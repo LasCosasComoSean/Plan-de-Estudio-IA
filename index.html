@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Documentación con Docsify</title>
+  <!-- Estilos básicos (tema por defecto) -->
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <!-- Contenedor donde se mostrará la documentación -->
+  <div id="app"></div>
+
+  <!-- Configuración de Docsify -->
+  <script>
+    window.$docsify = {
+      name: 'Plan de Estudio IA',
+      repo: 'https://github.com/LasCosasComoSean/Plan-de-Estudio-IA',
+
+      // Si quieres sidebar automático, activas loadSidebar: true
+      // y creas un _sidebar.md
+      loadSidebar: true,
+
+      // Si quieres navbar, loadNavbar: true
+      // y creas un _navbar.md
+      loadNavbar: true,
+
+      // Página principal de la documentación (puede ser README.md)
+      homepage: 'Home.md'
+    }
+  </script>
+
+  <!-- Cargamos la librería Docsify -->
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
