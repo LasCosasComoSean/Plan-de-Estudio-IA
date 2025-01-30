@@ -1,0 +1,2 @@
+- [Inicio](Home.md)
+- [Ver Repo en GitHub](https://github.com/LasCosasComoSean/Plan-de-Estudio-IA)
