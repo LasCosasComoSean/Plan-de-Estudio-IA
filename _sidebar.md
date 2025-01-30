@@ -1,7 +1,5 @@
 - [Home](Home.md)
 
-## Meses
-
 - **[Mes 1: Fundamentos de Python e IA](Mes-1-Fundamentos.md)**
   - [Semana 1: Instalación y Sintaxis de Python](Mes-1-Fundamentos.md#semana-1-instalación-y-sintaxis-de-python)
   - [Semana 2: Funciones, Módulos y Manejo de Datos](Mes-1-Fundamentos.md#semana-2-funciones-módulos-y-manejo-de-datos)
