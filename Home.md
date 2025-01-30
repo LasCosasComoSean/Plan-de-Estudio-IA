@@ -40,7 +40,7 @@
    - Bases vectoriales, RAG, testing y optimización
    - Realizar un proyecto capstone.
 7.	**Especializarse en Herramientas de IA aplicadas a la Producción Musical y Edición de Video:**
-   - Aplicar IA de forma avanzada en la creación de contenido multimedia** (composición musical, edición de video, clonación de voz, difusión en redes sociales, etc.), unificando todo lo aprendido (LLMs, automatización, hosting).
+   - Aplicar IA de forma avanzada en la creación de contenido multimedia (composición musical, edición de video, clonación de voz, difusión en redes sociales, etc.), unificando todo lo aprendido (LLMs, automatización, hosting).
 
 ---
 ## **Estructura y Duración**: 
