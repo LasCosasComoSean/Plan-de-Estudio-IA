@@ -2,34 +2,24 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Mi Documentación con Docsify</title>
-  <!-- Estilos básicos (tema por defecto) -->
+  <title>Plan de Estudio IA</title>
+  <!-- Puedes cambiar "vue.css" a "dark.css", "buble.css", etc. si prefieres otro tema. -->
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <!-- Contenedor donde se mostrará la documentación -->
   <div id="app"></div>
 
-  <!-- Configuración de Docsify -->
   <script>
     window.$docsify = {
-      name: 'Plan de Estudio IA',
-      repo: 'https://github.com/LasCosasComoSean/Plan-de-Estudio-IA',
-
-      // Si quieres sidebar automático, activas loadSidebar: true
-      // y creas un _sidebar.md
-      loadSidebar: true,
-
-      // Si quieres navbar, loadNavbar: true
-      // y creas un _navbar.md
-      loadNavbar: true,
-
-      // Página principal de la documentación (puede ser README.md)
-      homepage: 'Home.md'
-    }
+      name: 'Plan de Estudio (Docsify)',
+      repo: 'https://github.com/LasCosasComoSean/Plan-de-Estudio-IA', 
+      homepage: 'Home.md',     // Página de inicio al cargar el sitio
+      loadSidebar: true,       // Cargar _sidebar.md
+      loadNavbar: true         // Cargar _navbar.md
+    };
   </script>
 
-  <!-- Cargamos la librería Docsify -->
+  <!-- Carga la librería de Docsify -->
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
