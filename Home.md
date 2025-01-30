@@ -21,26 +21,26 @@
 ## Objetivos Generales
 
 **1.	Aprender Python lo suficiente como para:**
-	•	Leer y procesar datos,
-	•	Llamar a APIs de Inteligencia Artificial (IA),
-	•	Crear pequeños scripts y automatizaciones.
+   - Leer y procesar datos,
+   - Llamar a APIs de Inteligencia Artificial (IA),
+   - Crear pequeños scripts y automatizaciones.
 **2.	Entender Conceptos Fundamentales de Machine Learning:**
-	•	Aprender terminología básica (dataset, entrenamiento, sobreajuste, etc.),
-	•	Conocer librerías clave de Python (scikit-learn, pandas).
+   - Aprender terminología básica (dataset, entrenamiento, sobreajuste, etc.),
+   - Conocer librerías clave de Python (scikit-learn, pandas).
 **3.	Dominar Prompt Engineering con Modelos de Lenguaje de Gran Tamaño (LLMs):**
-	•	Usar efectivamente ChatGPT (o GPT-4) con distintos estilos de prompting (zero-shot, few-shot, chain-of-thought),
-	•	Crear prompts claros para obtener resultados consistentes.
+   - Usar efectivamente ChatGPT (o GPT-4) con distintos estilos de prompting (zero-shot, few-shot, chain-of-thought),
+   - Crear prompts claros para obtener resultados consistentes.
 **4.	Construir y Automatizar Procesos con “AI Agents”:**
-	•	Usar frameworks como LangChain, Auto-GPT o BabyAGI,
-	•	Crear cadenas de prompts, herramientas y lógica para realizar tareas complejas.
+   - Usar frameworks como LangChain, Auto-GPT o BabyAGI,
+   - Crear cadenas de prompts, herramientas y lógica para realizar tareas complejas.
 **5.	Diseñar e Integrar Aplicaciones Web (Figma para prototipado, HTML/CSS/JS o frameworks sencillos):**
-	•	Conectar el front-end con un backend en Python (Flask, FastAPI),
-	•	Desplegar la aplicación en la nube (Heroku, Render, Netlify, etc.).
+   - Conectar el front-end con un backend en Python (Flask, FastAPI),
+   - Desplegar la aplicación en la nube (Heroku, Render, Netlify, etc.).
 **6.  Temas avanzados**
-	•	Bases vectoriales, RAG, testing y optimización
-	•	Realizar un proyecto capstone.
+   - Bases vectoriales, RAG, testing y optimización
+   - Realizar un proyecto capstone.
 **7.	Especializarse en Herramientas de IA aplicadas a la Producción Musical y Edición de Video:**
-	•	Aplicar IA de forma avanzada en la creación de contenido multimedia** (composición musical, edición de video, clonación de voz, difusión en redes sociales, etc.), unificando todo lo aprendido (LLMs, automatización, hosting).
+   - Aplicar IA de forma avanzada en la creación de contenido multimedia** (composición musical, edición de video, clonación de voz, difusión en redes sociales, etc.), unificando todo lo aprendido (LLMs, automatización, hosting).
 
 **Recomendación**: Dedicando ~10–12 horas por semana, en 5 meses (20 semanas), te vuelves altamente competente en IA y su aplicación creativa/profesional.
 
