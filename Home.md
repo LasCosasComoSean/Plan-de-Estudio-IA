@@ -11,10 +11,10 @@
 ## Índice General
 
 - [Mes 1: Fundamentos de Python e IA](Mes‐1-Fundamentos.md)
-- [Mes 2: LLMs y Prompt Engineering](Mes-2-LLMs)
-- [Mes 3: Integración Web y Despliegue](Mes-3-Web)
-- [Mes 4: Temas Avanzados y Capstone](Mes-4-Avanzados)
-- [Mes 5: IA para Música, Video y Automatización Avanzada](Mes-5-MusicaVideo)
+- [Mes 2: LLMs y Prompt Engineering](Mes-2-LLMs.md)
+- [Mes 3: Integración Web y Despliegue](Mes-3-Web.md)
+- [Mes 4: Temas Avanzados y Capstone](Mes-4-Avanzados.md)
+- [Mes 5: IA para Música, Video y Automatización Avanzada](Mes-5-MusicaVideo.md)
 
 ---
 
