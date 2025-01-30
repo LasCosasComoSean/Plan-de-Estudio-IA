@@ -2,11 +2,11 @@
 
 ¡Bienvenido/a al Wiki! Aquí encontrarás un plan de estudio muy detallado, dividido en 5 Meses, para convertirte en un(a) profesional de la IA, con especial énfasis en:
 
-1. **Fundamentos de Python y ML** (Mes 1)  
-2. **LLMs, Prompt Engineering y Agentes** (Mes 2)  
-3. **Integración Web y Despliegue** (Mes 3)  
-4. **Temas Avanzados y Capstone** (Mes 4)  
-5. **IA para Producción Multimedia Avanzada (Música, Video, Voice Cloning, Automatización de Contenido, etc.)** (Mes 5)
+1. **Fundamentos de Python y Conceptos Básicos de IA y Machine Learning**  
+2. **LLMs (Large Language Models), Prompt Engineering Avanzado y creación de Agentes IA**  
+3. **Integración Web, Diseño de Interfaz UI/UX y Despliegue en la Nube**  
+4. **Temas Avanzados: Bases Vectoriales, RAG, Testing, Optimización, Pulido UI y Capstone**  
+5. **IA para Producción Multimedia Avanzada (Música, Video, Voice Cloning, Automatización de Contenido, etc.)**
 
 ## Índice General
 
