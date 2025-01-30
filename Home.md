@@ -10,7 +10,7 @@
 
 ## Índice General
 
-- [Mes 1: Fundamentos de Python e IA](Mes-1-Fundamentos.md)
+- [Mes 1: Fundamentos de Python e IA](Mes‐1-Fundamentos.md)
 - [Mes 2: LLMs y Prompt Engineering](Mes-2-LLMs)
 - [Mes 3: Integración Web y Despliegue](Mes-3-Web)
 - [Mes 4: Temas Avanzados y Capstone](Mes-4-Avanzados)
