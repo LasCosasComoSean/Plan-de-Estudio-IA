@@ -133,4 +133,4 @@ Introducir la Ingeniería de Prompts (Prompt Engineering) con ChatGPT / GPT-4.
 
 ---
 
-**Siguiente**: [Mes 2: LLMs y Prompt Engineering](Mes-2-LLMs)
+**Siguiente**: [Mes 2: LLMs y Prompt Engineering](Mes-2-LLMs.md)
