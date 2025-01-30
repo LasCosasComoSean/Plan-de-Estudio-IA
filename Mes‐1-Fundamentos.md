@@ -1,4 +1,4 @@
-# Mes 1: Fundamentos de Python y Conceptos Básicos de IA (Versión Extensa)
+# Mes 1: Fundamentos de Python y Conceptos Básicos de IA
 
 En este mes sentamos las bases de Python y una introducción a Machine Learning clásico. Consta de 4 semanas (Semana 1 a 4).
 
