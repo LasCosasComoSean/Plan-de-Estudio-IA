@@ -42,7 +42,7 @@
 7.	**Especializarse en Herramientas de IA aplicadas a la Producción Musical y Edición de Video:**
    - Aplicar IA de forma avanzada en la creación de contenido multimedia** (composición musical, edición de video, clonación de voz, difusión en redes sociales, etc.), unificando todo lo aprendido (LLMs, automatización, hosting).
 
-
+---
 ## **Estructura y Duración**: 
 Dedicando ~10–12 horas por semana, en 5 meses (20 semanas), te vuelves altamente competente en IA y su aplicación creativa/profesional.
 
